@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1489713419 source:c:\users\anonmonster\desktop\mapnavigation\turkey\main.cpp
+	<graphics.h>
+	<bitmap_image.hpp>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<limits.h>
+
+1493669204 source:c:\users\anonmonster\desktop\prolab\mapnavigation\turkey\main.cpp
+	<graphics.h>
+	<bitmap_image.hpp>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
