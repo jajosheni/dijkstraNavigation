@@ -9,6 +9,7 @@
 #include <string.h>
 #define infinity 9999
 
+///AUTHOR : SHENI HAMITAJ
 
 //! map = "map.bmp"
 //! koordinatlar = "kod.txt"
